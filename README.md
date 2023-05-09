@@ -7,7 +7,7 @@ https://laravel.com/docs/10.x/installation
 
 Após isso, para testar uma de nossas rotas ou utilizalas, basta executar o comando: php artisan server --port=[portaEscolhida]
 Dessa forma, você poderá utilizar das diversas rotas da api enquanto ela estiver sendo executada com o caminho:
-localhost:[portaDefinida]/
+localhost:[portaEscolhida]/
 
 Exemplo de uso:
 localhost:8000/hello
